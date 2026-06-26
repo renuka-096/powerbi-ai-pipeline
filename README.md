@@ -30,7 +30,9 @@ df['AI_Executive_Insight'] = ai_insight
 df.to_excel('automated_sales_data.xlsx')
 
 ## Dashboard Preview
-![Dashboard](Dashboard_Screenshot)
+## 📸 Dashboard Preview
+![Sales Dashboard](pic.png)
+
 
 
 ## Author
